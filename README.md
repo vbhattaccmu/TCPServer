@@ -8,7 +8,7 @@ stuck between boost.asio and WS2tcpip and am trying to figure out which one will
 
 Acknowledgement :-
 
-Thanks to Sloan Kelly for your tutorials. Learnt a lot from you.
+Thanks to Sloan Kelly for your tutorials. 
 
 References :-
 
